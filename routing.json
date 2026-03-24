@@ -1,0 +1,17 @@
+{
+  "config_version": 1,
+  "api_endpoints": [
+    "https://api.pipien.tech",
+    "https://ru1.pipien.tech",
+    "https://eu.pipien-api.net"
+  ],
+  "download_url": "https://github.com/saidprojects/pipien-releases/releases/latest/download/app-release.apk",
+  "emergency_message": {
+    "show": false,
+    "text": "В данный момент наблюдаются проблемы у провайдеров РФ. Мы уже переключаем серверы, подождите 5 минут."
+  },
+  "force_update": {
+    "required": false,
+    "version_code": 15
+  }
+}
