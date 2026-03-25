@@ -1,14 +1,14 @@
 {
   "config_version": 1,
   "api_endpoints": [
-    "https://api.pipien.tech",
-    "https://api.pipien-vpn.online",
-    "https://pipien-download.ru",
-    "https://pipien-vpn.online",
     "https://ppn-security.ru",
     "https://ppnsecurity.ru",
     "https://pipien-security.ru",
-    "https://pipien-vpn.ru"
+    "https://pipien-vpn.ru",
+    "https://api.pipien.tech",
+    "https://api.pipien-vpn.online",
+    "https://pipien-download.ru",
+    "https://pipien-vpn.online"
   ],
   "download_url": "https://github.com/saidprojects/pipien-releases/releases/latest/download/app-release.apk",
   "emergency_message": {
